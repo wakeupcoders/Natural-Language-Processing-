@@ -3,7 +3,7 @@ This repository is belongs to wakeupcoders. This contains Full series of NLP art
 This repository contains multiple folders. every series of folder contains 2 internal folder. First is learning folder and other is practice assignment folder<br>
 
 <h3>1. Introduction:</h3>
-In this the introduction of NLP is explained, Like what is NLP, How NLP works, how real industry is using NLP.
+In this the introduction of NLP is explained, Like what is NLP, How NLP works, how real industry is using NLP.<br>
 Link to blog: https://medium.com/@wakeupcoders/introduction-to-natural-language-processing-nlp-f834c4aa7357
 
 <h3>2. Tokenization</h3>
